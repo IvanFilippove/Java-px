@@ -1,0 +1,10 @@
+<Context>
+
+  <Resource name="jdbc/wbr_inventory_control"
+  			auth="Container" type="javax.sql.DataSource"
+               maxWaitMillis="10000" maxIdle="30" maxTotal="5"
+               username="testuser" password="testuser"
+               driverClassName="com.mysql.cj.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/wbr_inventory_control?useSSL=false&amp;serverTimezone=UTC"/>
+
+</Context>

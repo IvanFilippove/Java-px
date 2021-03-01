@@ -1,0 +1,50 @@
+#productId {
+	width: 200px;
+	height: 20px;
+}
+
+#productGenreCode {
+	width: 210px;
+	height: 25px;
+}
+
+#productName {
+	width: 200px;
+	height: 20px;
+}
+
+#productMaker {
+	width: 210px;
+	height: 25px;
+}
+
+#productPrice {
+	width: 200px;
+	height: 20px;
+}
+
+#productStock {
+	width: 205px;
+	height: 20px;
+}
+
+#productSales {
+	width: 200px;
+	height: 20px;
+}
+
+#productRemarks {
+	width: 420px;
+	height: 150px;
+	margin-bottom: 10px;
+}
+
+.button_update {
+	width: 120px;
+	height: 50px;
+}
+
+.button_register {
+	width: 120px;
+	height: 50px;
+}

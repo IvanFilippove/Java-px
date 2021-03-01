@@ -1,0 +1,48 @@
+h1 {
+  background-color: black;
+  color: white;
+  width: 760px;
+  font-size: 36px;
+}
+
+table {
+  margin-top: 80px;
+  border-left: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+th {
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+}
+
+td {
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+}
+
+.purple {
+  background-color: #959ADC;
+}
+
+img {
+  height: 100px;
+}
+
+.button_search {
+  height: 50px;
+  margin-left: 750px;
+  position: absolute;
+}
+
+.button_signup {
+  height: 50px;
+  margin-left: 865px;
+  position: absolute;
+}
